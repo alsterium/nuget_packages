@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>glfw3</id>
+    <version>3.3.2</version>
+    <authors>papico</authors>
+    <owners>papico</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>glfw3 local pack</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>C++ OpenGL GLFW glfw</tags>
+  </metadata>
+  <!-- <files> -->
+    <!-- targetには、ライブラリが入っているディレクトリを指定 -->
+    <!-- <file src="build\native\bin\glfw3.dll" target="build\native\lib\glfw3.lib" /> -->
+  <!-- </files> -->
+</package>
